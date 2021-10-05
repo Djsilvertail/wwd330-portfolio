@@ -1,12 +1,23 @@
 @import url('https://fonts.googleapis.com/css?family=Baloo+Da|Roboto');
 body{
-    background-color: #5F1C1C;
+    background-color: black;
     font-family: 'Roboto', sans-serif;
 }
-h2{
-    background:  url(https://cdn.rawgit.com/alexmwalker/6acbe9040d9fe6e5e9fd758a25e1b2a5/raw/9c8131eb2ccc1e3839a5a5114cb16b5dc74daf04/dojo.svg) no-repeat;
+
+header {
+    background-color: purple;
     width: 100%;
-    height: 800px;
-    background-size: 100% auto;
-    padding-top: 10px;
+    height: 100%;
+    padding: 2rem;
+    margin: 3px;
+    text-align: center;
+    color: skyblue;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+ol, li, a {
+    color: skyblue;
 }
