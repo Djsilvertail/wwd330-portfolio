@@ -16,6 +16,12 @@ header {
 
 h1 {
     font-family: cursive;
+    color: skyblue;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: skyblue;
 }
 
 ol, li, a {
